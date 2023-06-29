@@ -1,4 +1,5 @@
 @extends('Layouts.app')
+@include('Layouts.nav')
 
 @section('content')
     <div class="container mt-4">

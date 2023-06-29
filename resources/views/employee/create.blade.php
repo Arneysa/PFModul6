@@ -1,4 +1,5 @@
 @extends('layouts.app')
+@include('Layouts.nav')
 
 @section('content')
     <div class="container-sm my-5">
